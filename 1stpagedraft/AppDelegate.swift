@@ -4,6 +4,7 @@
 //
 //  Created by Max Wray on 10/9/15.
 //  Copyright © 2015 Max Wray. All rights reserved.
+//  Testing code addition by G. Davis, Jan 11, 2016
 //
 
 import UIKit

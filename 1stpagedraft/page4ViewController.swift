@@ -27,7 +27,7 @@ class page4ViewController: UIViewController {
     displayhealth.text = "Health index is \(healthind)"
 */
     // sets health index attribute to a key 
-    Habitat.setValue(1, forKey: "hindex")
+
     // links Result and and Habitat
    // Result.setValue(NSSet(object: Habitat),for key: )
     
